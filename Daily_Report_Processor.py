@@ -4,7 +4,7 @@ print("""
 Author: Jamil Mendez
 Version: 0.1.0
 License: MIT
-Github: https://github.com/Jamil1016
+Github: https://github.com/Jamil1016/Daily_Report_Processor
 
       
 Daily Report Processor
